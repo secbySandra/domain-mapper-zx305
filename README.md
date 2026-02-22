@@ -47,3 +47,7 @@ This project focuses on automation, structured reporting, and educational attack
 
 All testing was conducted in a controlled lab environment for educational purposes only.
 No real-world systems were targeted.
+## How to Run
+
+chmod +x domain_mapper.sh
+./domain_mapper.sh
